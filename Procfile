@@ -1,1 +1,1 @@
-web: gurnicorn cproject.wsgi --log-file -
+web: gunicorn cproject.wsgi --log-file -
